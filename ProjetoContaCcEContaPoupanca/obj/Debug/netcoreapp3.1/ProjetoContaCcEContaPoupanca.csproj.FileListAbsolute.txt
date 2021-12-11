@@ -1,0 +1,14 @@
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\bin\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.exe
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\bin\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.deps.json
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\bin\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.runtimeconfig.json
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\bin\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.runtimeconfig.dev.json
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\bin\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.dll
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\bin\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.pdb
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.csproj.AssemblyReference.cache
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.AssemblyInfoInputs.cache
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.AssemblyInfo.cs
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.dll
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.pdb
+C:\Users\vitor.perez\source\repos\ProjetoContaCcEContaPoupanca\ProjetoContaCcEContaPoupanca\obj\Debug\netcoreapp3.1\ProjetoContaCcEContaPoupanca.genruntimeconfig.cache
